@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640330655782",
+    "project_id": "practiceurbook",
+    "storage_bucket": "practiceurbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640330655782:android:c99214e96a652156211ee7",
+        "android_client_info": {
+          "package_name": "com.androidstudio.practiceurbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640330655782-4ghr5o0rg863kguandhn4m8jt4e7ud8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwpOtHHxNoCz6bydeZ-cdy5BETplqB5E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640330655782-4ghr5o0rg863kguandhn4m8jt4e7ud8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
